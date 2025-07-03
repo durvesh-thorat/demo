@@ -1,3 +1,3 @@
 # demo
 My first repository. <br>
-Author - Durvesh Thorat
+Author - Durvesh
